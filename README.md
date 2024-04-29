@@ -1,3 +1,3 @@
 # graph-bfs-search
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Gerphelius/graph-bfs-search)
+Graph articulation points search
